@@ -14,8 +14,8 @@ public class reto4 {
 				System.out.println("Escribe un numero valido");
 			}
 		} while (num%2==0 || num%3==0 || num%5==0);
-		Fichero1.divisores(num);
-		System.out.println(factorial(sum));
+		int sum = Fichero1.divisores(num);
+		System.out.println(factorial(suma));
 		sc.close();
 	}
 }
