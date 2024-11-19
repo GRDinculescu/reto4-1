@@ -13,6 +13,7 @@ public class Fichero1 {
 			}
 			pm +=p;
 			System.out.println(pm);
+			
 		}
 	}
 
