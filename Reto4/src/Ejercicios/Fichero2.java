@@ -1,4 +1,4 @@
-package Ejercicios;
+ package Ejercicios;
 
 public class Fichero2 {
 	
